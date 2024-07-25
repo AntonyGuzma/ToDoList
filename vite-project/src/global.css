@@ -1,0 +1,22 @@
+/* Definindo as variaveis de cores */
+:root{
+    --cinza: #ebebeb;
+    --preto: #272727;
+    --rosa: #f86197;
+    --verde: #36b59f; 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--cinza);
+}
+
+body, input, textarea, button{
+    font-size: 1rem;
+    font-family: sans-serif;
+}
