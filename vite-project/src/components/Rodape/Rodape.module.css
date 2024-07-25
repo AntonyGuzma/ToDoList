@@ -1,0 +1,11 @@
+.Rodape{
+    background-color: var(--preto);
+    color: var(--cinza);
+    padding: 0.5rem 1rem;
+    text-align: center;
+    /* posição absoluta tomar cuidado */
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
